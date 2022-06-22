@@ -3,5 +3,5 @@ certifi==2019.11.28
 mkl-fft==1.0.15
 mkl-random==1.1.0
 mkl-service==2.3.0
-numpy==1.18.1
+numpy==1.22.0
 six==1.14.0
